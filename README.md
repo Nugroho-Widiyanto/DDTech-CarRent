@@ -1,6 +1,6 @@
 # DDTech-CarRent
 
-How to attach the Lodatabase:
+How to attach the database:
 
 Make sure you have installed SQL Server Express LocalDB.
 Open Microsoft SQL Server Management Studio and input your LocalDB server name.
